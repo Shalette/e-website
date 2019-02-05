@@ -1,2 +1,2 @@
 # e-website
-A website created for the company Selectiall as part of a web development internship.
+A website created for the company Selectiall as part of a web development internship, 2018.
